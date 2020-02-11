@@ -1,5 +1,5 @@
 ---
-title: Post List
+title: Category
 subtitle: a list of posts I wrote
 layout: "page"
 icon: fa-book
