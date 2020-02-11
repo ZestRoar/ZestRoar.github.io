@@ -9,7 +9,7 @@ order: 3
 <div class="site-category">
     <ul class='cat1'>
       <li><a href="/">Home</a></li>
-      <li><a href="/">C++</a>
+      <li><a href="/C++">C++</a>
         <ul>
             <li><a href="/C++/Server">Server</a></li>
             <li><a href="/C++/Modern">Modern</a></li>
@@ -17,14 +17,14 @@ order: 3
         </ul>
       </li>
 
-      <li><a href="/">C#</a>
+      <li><a href="/C#">C#</a>
         <ul>
           <li><a href="/C#/Effective">Effective</a></li>
           <li><a href="/C#/Form">Form</a></li>
         </ul>
       </li>
 
-      <li><a href="/">Engine</a>
+      <li><a href="/Engine">Engine</a>
         <ul>
             <li><a href="/Engine/Unity">Unity</a></li>
             <li><a href="/Engine/Unreal">Unreal</a></li>
@@ -33,20 +33,20 @@ order: 3
         </ul>
       </li>
 
-      <li><a href="/">Portfolio</a>
+      <li><a href="/Portfolio">Portfolio</a>
         <ul>
           <li><a href="/Portfolio/Tech">Tech</a></li>
           <li><a href="/Portfolio/Videos">Videos</a></li>
         </ul>
       </li>
-      <li><a href="/">Logic</a>
+      <li><a href="/Logic">Logic</a>
         <ul>
           <li><a href="/Logic/Physics">Physics</a></li>
           <li><a href="/Logic/Mathematics">Mathematics</a></li>
           <li><a href="/Logic/Algorithm">Algorithm</a></li>
         </ul>
       </li>
-      <li><a href="/">ETC</a>
+      <li><a href="/ETC">ETC</a>
         <ul>
           <li><a href="/ETC/Sound">Sound</a></li>
           <li><a href="/ETC/Studying">Studying</a></li>
