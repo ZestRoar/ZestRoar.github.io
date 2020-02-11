@@ -1,22 +1,71 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Post List
+subtitle: a list of posts I wrote
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+<div class="site-category">
+    <ul class='cat1'>
+      <li><a href="/">Home</a></li>
+      <li><a href="/">C++</a>
+        <ul>
+            <li><a href="/C++/Server">Server</a></li>
+            <li><a href="/C++/Modern">Modern</a></li>
+            <li><a href="/C++/Effective">Effective</a></li>
+        </ul>
+      </li>
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+      <li><a href="/">C#</a>
+        <ul>
+          <li><a href="/C#/Effective">Effective</a></li>
+          <li><a href="/C#/Form">Form</a></li>
+        </ul>
+      </li>
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+      <li><a href="/">Engine</a>
+        <ul>
+            <li><a href="/Engine/Unity">Unity</a></li>
+            <li><a href="/Engine/Unreal">Unreal</a></li>
+            <li><a href="/Engine/DirectX">DirectX</a></li>
+            <li><a href="/Engine/OpenGL">OpenGL</a></li>
+        </ul>
+      </li>
+
+      <li><a href="/">Portfolio</a>
+        <ul>
+          <li><a href="/Portfolio/Tech">Tech</a></li>
+          <li><a href="/Portfolio/Videos">Videos</a></li>
+        </ul>
+      </li>
+      <li><a href="/">Logic</a>
+        <ul>
+          <li><a href="/Logic/Physics">Physics</a></li>
+          <li><a href="/Logic/Mathematics">Mathematics</a></li>
+          <li><a href="/Logic/Algorithm">Algorithm</a></li>
+        </ul>
+      </li>
+      <li><a href="/">ETC</a>
+        <ul>
+          <li><a href="/ETC/Sound">Sound</a></li>
+          <li><a href="/ETC/Studying">Studying</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
