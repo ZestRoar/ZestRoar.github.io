@@ -4,5 +4,5 @@ layout: category
 
 title: Logic/Algorithm
 
-permalink: '/Logic/Algorithm'
+permalink: 'Logic/Algorithm'
 ---
