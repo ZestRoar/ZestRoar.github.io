@@ -1,5 +1,5 @@
 ---
-
+hide : true
 ---
 # Prologue - Jekyll Theme
 
