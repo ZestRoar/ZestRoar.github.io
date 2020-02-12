@@ -2,6 +2,7 @@
 title: First Post
 author: Chris
 layout: post
+published: true
 categories: [Logic/Algorithm]
 tags: [Game AI]
 ---
