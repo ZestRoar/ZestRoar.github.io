@@ -1,5 +1,5 @@
 ---
-title: Contents
+title: Tistory
 subtitle: a list of posts I wrote
 layout: "page"
 icon: fa-book
@@ -8,7 +8,7 @@ order: 3
 
 <div class="site-category">
     <ul class='cat1'>
-      <li><a href="/">Home</a></li>
+      <li><a href="https://doggyfoot.tistory.com/">Home</a></li>
       <li><a href="/C++">C++</a>
         <ul>
             <li><a href="/C++/Server">Server</a></li>
