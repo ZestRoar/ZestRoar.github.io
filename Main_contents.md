@@ -9,48 +9,37 @@ order: 3
 <div class="site-category">
     <ul class='cat1'>
       <li><a href="https://doggyfoot.tistory.com/">Home</a></li>
-      <li><a href="/C++">C++</a>
+      <li><a href="https://doggyfoot.tistory.com/category/C%2B%2B">C++</a>
         <ul>
-            <li><a href="/C++/Server">Server</a></li>
-            <li><a href="/C++/Modern">Modern</a></li>
-            <li><a href="/C++/Effective">Effective</a></li>
+            <li><a href="https://doggyfoot.tistory.com/category/C%2B%2B/Effective%20C%2B%2B">Effective</a></li>
+            <li><a href="https://doggyfoot.tistory.com/category/C%2B%2B/Modern%20C%2B%2B">Modern</a></li>
+            <li><a href="https://doggyfoot.tistory.com/category/C%2B%2B/C%2B%2B%20Server">Server</a></li>
         </ul>
       </li>
 
-      <li><a href="/C#">C#</a>
+      <li><a href="https://doggyfoot.tistory.com/category/C%23">C#</a>
         <ul>
-          <li><a href="/C#/Effective">Effective</a></li>
-          <li><a href="/C#/Form">Form</a></li>
+          <li><a href="https://doggyfoot.tistory.com/category/C%23/Effective%20C%23">Effective</a></li>
+          <li><a href="https://doggyfoot.tistory.com/category/C%23/C%23%20Form">Form</a></li>
         </ul>
       </li>
 
-      <li><a href="/Engine">Engine</a>
+      <li><a href="https://doggyfoot.tistory.com/category/Engine">Engine</a>
         <ul>
-            <li><a href="/Engine/Unity">Unity</a></li>
-            <li><a href="/Engine/Unreal">Unreal</a></li>
-            <li><a href="/Engine/DirectX">DirectX</a></li>
-            <li><a href="/Engine/OpenGL">OpenGL</a></li>
+            <li><a href="https://doggyfoot.tistory.com/category/Engine/Unity">Unity</a></li>
+            <li><a href="https://doggyfoot.tistory.com/category/Engine/Unreal">Unreal</a></li>
+            <li><a href="https://doggyfoot.tistory.com/category/Engine/DirectX%203D">DirectX</a></li>
+            <li><a href="https://doggyfoot.tistory.com/category/Engine/OpenGL">OpenGL</a></li>
         </ul>
       </li>
-
-      <li><a href="/Portfolio">Portfolio</a>
+      
+      <li><a href="https://doggyfoot.tistory.com/category/Logic">Logic</a>
         <ul>
-          <li><a href="/Portfolio/Tech">Tech</a></li>
-          <li><a href="/Portfolio/Videos">Videos</a></li>
+          <li><a href="https://doggyfoot.tistory.com/category/Logic/Physics">Physics</a></li>
+          <li><a href="https://doggyfoot.tistory.com/category/Logic/Mathematics">Mathematics</a></li>
+          <li><a href="https://doggyfoot.tistory.com/category/Logic/Algorithm">Algorithm</a></li>
         </ul>
       </li>
-      <li><a href="/Logic">Logic</a>
-        <ul>
-          <li><a href="/Logic/Physics">Physics</a></li>
-          <li><a href="/Logic/Mathematics">Mathematics</a></li>
-          <li><a href="/Logic/Algorithm">Algorithm</a></li>
-        </ul>
-      </li>
-      <li><a href="/ETC">ETC</a>
-        <ul>
-          <li><a href="/ETC/Sound">Sound</a></li>
-          <li><a href="/ETC/Studying">Studying</a></li>
-        </ul>
-      </li>
+     
     </ul>
   </div>
