@@ -35,7 +35,7 @@ subtitle: game programming
 description: >- # this means to ignore newlines until "baseurl:"
 author: Testroar
 email: topben95@gmail.com
-avatar: assets/images/avatar.jpg
+avatar: assets/images/ZRLogo.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
